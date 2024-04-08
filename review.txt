@@ -1,1 +1,2 @@
 internet application material is about developing web applications
+The project will use HTML and CSS Markup languages
